@@ -101,7 +101,6 @@
 
 <script>
 import { mapActions } from "pinia";
-import d$auth from "@/store/auth";
 import axios from "axios";
 import Navbar from "@/examples/PageLayout/Navbar.vue";
 import ArgonInput from "@/components/ArgonInput.vue";
